@@ -1,11 +1,11 @@
 # Material 
-gh auth login -w 
-git remote
-git status
-git commit -m "{msg}"
-git push {alias} master ( op: -f : 강제)
-git rm --cached {file}
+<p>gh auth login -w  </p>
+<p>git remote </p>
+<p>git status </p>
+<p>git commit -m "{msg}" </p>
+<p>git push {alias} master ( op: -f : 강제) </p>
+<p>git rm --cached {file} </p>
 
 # 환경
-화면 : react, mobx, css
-백엔드 : spring boot, JPA, kafka(예정)
+<p>화면 : react, mobx, css </p>
+<p>백엔드 : spring boot, JPA, kafka(예정) </p>
