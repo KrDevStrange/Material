@@ -1,17 +1,13 @@
-import React,{ Component } from "react";
-import { Route } from "react-router-dom";
-import { Logins, SignUp } from "./pages/PageIndex";
+import React, {Component } from "react";
+import Header from "./components/Header";
 
 class App extends Component {
-    render() {
-        return (
-            <div>
-                <Route exact path="/" component={Logins} />
-                <Route exact path="/signup" component={SignUp} />
-            </div>
-        )
-    }
+  render() {
+      // const logo = require("/linkedin_banner_image_1.png");
+      return (
+          <Header/>
+      );
+  }
 }
 
 export default App;
-
