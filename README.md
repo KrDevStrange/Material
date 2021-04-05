@@ -9,3 +9,6 @@
 # 환경
 <p>화면 : react, mobx, css </p>
 <p>백엔드 : spring boot, JPA, kafka(예정) </p>
+
+# font(D2Coding)
+<p> https://github.com/naver/d2codingfont </p>
